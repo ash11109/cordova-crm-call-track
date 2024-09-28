@@ -1,0 +1,33 @@
+{
+  "name": "io.ash.plugin.phonecalltrap",
+  "version": "0.1.2",
+  "description": "CRM call manage",
+  "cordova": {
+    "id": "io.ash.plugin.phonecalltrap",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "phonegap",
+    "calendar",
+    "phone",
+    "call",
+    "phone-call",
+    "ringing",
+    "phone-state",
+    "call-state",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "updated by ash",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
